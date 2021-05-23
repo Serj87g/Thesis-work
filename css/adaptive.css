@@ -1,0 +1,567 @@
+
+/*1024-1199*/
+@media screen and (max-width: 1199px) {
+    #main-container {
+        padding: 0 20px;
+    }
+    #line1 {
+        padding: 0 20px;
+    }
+    #info {
+        padding: 0 20px;
+    }
+    #info-left {
+        margin-right: 30px;
+    }
+    #info #info-right {
+        max-width: 410px;
+    }
+    #info #info-container .title {
+        font-size: 25px;
+    }
+    #info .info-text {
+        font-size: 14px;
+        line-height: 1.425;
+    }
+    #info .left-text {
+        font-size: 14px;
+    }
+    #info #right-image {
+        max-width: 150px;
+    }
+    #info #right-image img {
+        width: 100%;
+    }
+    #line2 {
+        padding: 0 20px;
+    }
+    #price {
+        width: 92%;
+        padding: 0 20px;
+    }
+    #price h2.title  {
+        font-size: 25px;
+    }
+    #price-left {
+        max-width: 310px;
+    }
+    #price .price-block {
+        max-width: 310px;
+    }
+    #price .price-text-left {
+        font-size: 14px;
+    }
+    #price .price-text-right {
+        font-size: 14px;
+    }
+    #line3 {
+        padding: 0 20px;
+    }
+    #masters {
+        width: 92%;
+        padding: 0 20px;
+    }
+    #masters #masters-container .title {
+        font-size: 25px;
+    }
+    #masters #masters-text {
+        font-size: 14px;
+    }
+    footer {
+        padding: 0 20px;
+    }
+    footer #footer-container {
+        justify-content: space-evenly;
+    }
+    footer iframe {
+        max-width: 600px;
+        max-height: 440px;
+    }
+    /*-------application------*/
+
+}
+
+/*768-1023*/
+@media screen and (max-width: 1023px) {
+    #main-container #header {
+        padding-top: 35px;
+    }
+    #man {
+        max-width: 450px;
+    }
+    #main-right h1 {
+        font-size: 35px;
+    }
+    #main-right .button {
+        font-size: 14px;
+        width: 195px;
+        height: 45px;
+    }
+    #line1 #advantages-container {
+        padding: 40px 0;
+    }
+    #line1 .advantage {
+        font-size: 20px;
+    }
+    #line2 .line2-container {
+        padding: 40px 0;
+    }
+    #line2 .line-text {
+        font-size: 20px;
+    }
+    #line2 .button {
+        font-size: 14px;
+        width: 195px;
+        height: 45px;
+    }
+    #line3 .line2-container {
+        padding: 40px 0;
+    }
+    #line3 .line-text {
+        font-size: 20px;
+    }
+    #line3 .button {
+        font-size: 14px;
+        width: 195px;
+        height: 45px;
+    }
+    .advantage img {
+        max-width: 40px;
+    }
+    #left-image {
+        max-width: 430px;
+    }
+
+}
+
+/*768-956*/
+@media screen and (max-width: 956px) {
+    #header .logo {
+        font-size: 20px;
+    }
+    #header #menu {
+        justify-content: space-around;
+    }
+    #header .phone-number {
+        font-size: 12px;
+    }
+    #main-right h1 {
+        font-size: 31px;
+    }
+    #header #main-text {
+        font-size: 15px;
+    }
+    #main {
+        padding-top: 75px;
+    }
+    #main #man {
+        max-width: 330px;
+    }
+    #main #strong {
+        max-width: 490px;
+        top: 6px;
+        right: 5px;
+    }
+    #main #club {
+        max-width: 300px;
+        bottom: 27px;
+        left: 70px;
+    }
+    #line1 .advantage img {
+        max-width: 25px;
+    }
+    #line1 .advantage {
+        font-size: 14px;
+    }
+    #info h2.title {
+        margin: 70px auto 50px auto;
+    }
+    #info .info-text {
+        margin-bottom: 10px;
+    }
+    #info #left-image {
+        max-width: 350px;
+    }
+    #info #right-image {
+        max-width: 100px;
+    }
+    #price {
+        width: 87%;
+    }
+    #price h2.title {
+        margin: 70px auto 10px auto;
+    }
+    #price .price-title {
+        font-size: 20px;
+    }
+    #price #price-left {
+        margin-right: 20px;
+    }
+    #masters {
+        width: 87%;
+    }
+    #masters #masters-container .title {
+        margin: 70px auto 20px auto;
+    }
+    #masters .slick-prev {
+        left: 230px;
+    }
+    #masters .slick-next {
+        right: 225px;
+        top: 559px;
+    }
+    footer iframe {
+        max-width: 430px;
+    }
+    footer .logo {
+        font-size: 20px;
+        text-align: center;
+    }
+    footer #footer-time {
+        font-size: 12px;
+    }
+    footer #footer-address {
+        font-size: 12px;
+    }
+    footer #footer-soc-text {
+        font-size: 12px;
+    }
+    footer #footer-email {
+        font-size: 12px;
+    }
+    footer .phone-number {
+        font-size: 12px;
+    }
+    /*-------------application------------*/
+    #application-popup #application .thanks-title {
+        margin-bottom: 15px;
+    }
+    #application-popup #application input {
+        margin: 20px 4px;
+    }
+    #application-popup #application .button {
+        margin-top: 15px;
+    }
+}
+
+/*580-767*/
+@media screen and (max-width: 767px) {
+    #header {
+        flex-wrap: wrap;
+    }
+    #header .logo {
+        order: 1;
+    }
+    #header #menu {
+        order: 2;
+        margin: 20px auto;
+    }
+    #header #phone {
+        order: 1;
+    }
+    #main-container #main {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #main #strong {
+        top: 390px;
+        right: 5px;
+    }
+    #main #club {
+        bottom: 69px;
+        left: 39px;
+    }
+    body #info {
+        padding-bottom: 250px;
+    }
+    #info #info-container {
+        padding-right: 0;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #info #left-image {
+        max-width: 520px;
+        margin-bottom: 15px;
+    }
+    #info .block-left {
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+    #info #info-right {
+        margin-top: 20px;
+    }
+    #info #info-container2 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #info #right-image {
+        bottom: -200px;
+    }
+    #price #price-container {
+        flex-wrap: wrap;
+        background-size: contain;
+    }
+    #masters .slick-list {
+        height: 100% !important;
+    }
+    footer #footer-container {
+        flex-wrap: wrap;
+    }
+    footer #footer-left {
+        margin: 20px auto 0;
+        order: 2;
+    }
+}
+
+/*480-579*/
+@media screen and (max-width: 579px) {
+    #header #phone {
+        order: 1;
+    }
+
+
+    #main-container #burger {
+        display: block;
+    }
+    #main-container #header #menu.menu-open {
+        position: absolute;
+        margin-top: 0;
+        background: #000000f5;
+        z-index: 3;
+        text-align: center;
+        padding: 20px 0;
+        display: none;
+        flex-direction: column;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    #header #menu div {
+        margin-top: 57px;
+        margin-bottom: 40px;
+    }
+    #header #menu a {
+        font-size: 18px;
+    }
+
+
+    #main #main-right {
+        text-align: center;
+    }
+    #main .button {
+        margin-right: 0;
+        margin-bottom: 50px;
+    }
+    #main #man {
+        margin: 0 auto;
+    }
+    #main #strong {
+        display: none;
+    }
+    #main #club {
+        display: none;
+    }
+    #info #left-image {
+        max-width: 365px;
+    }
+    #info #info-left {
+        overflow: hidden;
+        max-width: 325px;
+        margin-right: 0;
+    }
+    #info #info-right {
+        max-width: 325px;
+        text-align: center;
+    }
+    #info #right-image {
+        bottom: -200px;
+        right: 111px;
+    }
+    #line1 #advantages-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    #line1 .advantage {
+        margin: 10px;
+    }
+    #line2 .line2-container {
+        padding: 20px 0;
+        max-width: 300px;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    #line2 .button {
+        margin-top: 10px;
+        margin-right: 0;
+    }
+    #line2 .line-text {
+        font-size: 17px;
+    }
+    #line3 .line2-container {
+        padding: 20px 0;
+        max-width: 300px;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    #line3 .button {
+        margin-top: 10px;
+        margin-right: 0;
+    }
+    #line3 .line-text {
+        max-width: 176px;
+        font-size: 17px;
+    }
+    #masters .slick-prev {
+        left: 135px;
+    }
+    #masters .slick-next {
+        right: 130px;
+    }
+    /*----------application---------*/
+    #application-popup #application .thanks-title {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    #application-container #application form {
+        max-width: 500px;
+    }
+    #application-popup #application input {
+        font-size: 14px;
+        height: 35px;
+    }
+    #application-popup #application #application-container .button {
+        margin-top: 30px;
+    }
+    #application-container #application .error-input {
+
+    }
+    #application-popup #application input::placeholder {
+        font-size: 14px;
+    }
+    #application-popup #application .button {
+        margin-top: 0;
+        font-size: 14px;
+        height: 45px;
+    }
+
+}
+
+/*480-499*/
+@media screen and (max-width: 499px) {
+    #main #man {
+        max-width: 250px;
+    }
+    #info #info-left {
+        max-width: 250px;
+    }
+    #info #info-right {
+        max-width: 250px;
+    }
+    #info #right-image {
+        right: 75px;
+    }
+    #price {
+        width: 80%;
+    }
+    #price #price-left {
+        margin-right: 0;
+        max-width: 300px;
+    }
+    #price #price-right {
+        max-width: 300px;
+    }
+    #price .price-block {
+        max-width: 250px;
+    }
+    #price .price-text-left {
+        max-width: 220px;
+    }
+    #masters {
+        width: 80%;
+    }
+    #masters .master-button {
+        font-size: 14px;
+    }
+    #info .left-image-small {
+        width: 48px;
+    }
+}
+
+/*320-479*/
+@media screen and (max-width: 479px) {
+    #info #left-image {
+        max-width: 235px;
+    }
+    #masters .slick-prev {
+        left: 100px;
+    }
+    #masters .slick-next {
+        right: 100px;
+    }
+    body #masters {
+        margin: 0;
+        margin-bottom: 70px;
+        width: 85%;
+    }
+    #masters .slick-center {
+        width: 286px;
+    }
+    footer iframe {
+        max-width: 315px;
+    }
+    #masters #thanks-container {
+        width: 265px;
+    }
+    #thanks #thanks-container .thanks-title {
+        margin: 0 auto 40px;
+        font-size: 20px;
+    }
+    #thanks #thanks-container #thanks-text {
+        font-size: 15px;
+    }
+    #thanks-popup #thanks .close {
+        margin: 15px 15px 0 0;
+    }
+    #application #application-container form {
+        max-width: 430px;
+    }
+    #application #application-container .error-input {
+        margin-bottom: -8px;
+        margin-top: -9px;
+    }
+    #application #application-container input {
+        margin: 9px 4px;
+    }
+    #application-popup #application .thanks-title {
+        margin-top: 10px;
+        margin-bottom: 0;
+        font-size: 20px;
+    }
+    #application-popup #application .close {
+        margin: 10px 10px 0 0;
+    }
+}
+
+/**/
+@media screen and (max-width: 375px) {
+    #masters .slick-next {
+        right: 95px;
+    }
+    #application-popup #application .close{
+        margin: 15px 15px 0 0;
+    }
+}
+
+/**/
+@media screen and (max-width: 340px) {
+    #masters .slick-next {
+        right: 88px;
+    }
+#masters .master-bg {
+    right: 8px;
+    }
+}
